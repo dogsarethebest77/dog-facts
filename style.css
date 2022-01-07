@@ -1,0 +1,23 @@
+/* cookies */
+/* y   hhy   hy */
+/* dogs are good pets */
+
+body {
+  background-color: #eddba1;
+}
+
+button.brown {
+  background-color: #2e1602;
+}
+
+button.brown:focus {
+  background-color: #2e1602;
+}
+
+button.brown:hover {
+  background-color: #4d2e15;
+}
+
+img.not-too-big {
+  max-width: 600px;
+}
