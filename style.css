@@ -19,5 +19,7 @@ button.brown:hover {
 }
 
 img.not-too-big {
-  max-width: 400px;
+  object-fit: cover;
+  width:230px;
+  height:230px;
 }
